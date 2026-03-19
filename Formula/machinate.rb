@@ -2,8 +2,8 @@ class Machinate < Formula
   include Language::Python::Virtualenv
 
   desc "Prompt-first control-plane CLI for ML workspaces and pipelines"
-  homepage "https://example.com/machinate"
-  url "file:///Users/johnny/Projects/Machinate/dist/machinate-0.1.0.tar.gz"
+  homepage "https://github.com/jmcguigan10/Machinate"
+  url "https://github.com/jmcguigan10/Machinate/releases/download/v0.1.0/machinate-0.1.0.tar.gz"
   sha256 "2edbef22fd2f22db816d5f28d2a6f16e7c32fea208a9591e2931ca07cdd93e38"
   license "MIT"
 
